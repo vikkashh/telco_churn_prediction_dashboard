@@ -137,6 +137,6 @@ Machine Learning Model (Python)
 
 Screenshot :-
 Screenshot
-![alt text]()
+![alt text](https://github.com/vikkashh/telco_churn_prediction_dashboard/blob/main/telco_churn_page_1_SS.png)
 
 
