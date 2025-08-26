@@ -134,3 +134,9 @@ Machine Learning Model (Python)
 
 . Optimize marketing spend by focusing only on high-risk customers (identified via churn index).
 
+
+Screenshot :-
+Screenshot
+![alt text]()
+
+
