@@ -135,9 +135,11 @@ Machine Learning Model (Python)
 . Optimize marketing spend by focusing only on high-risk customers (identified via churn index).
 
 
-Screenshot :-
-Screenshot
+
+Screenshot Page 1
 ![alt text](https://github.com/vikkashh/telco_churn_prediction_dashboard/blob/main/telco_churn_page_1_SS.png)
+
+Screenshot Page 2
 ![alt text](https://github.com/vikkashh/telco_churn_prediction_dashboard/blob/main/telco_churn_page_2_SS.png)
 
 
