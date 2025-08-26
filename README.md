@@ -51,3 +51,14 @@ Machine Learning Model (Python)
 . Power BI (Data modeling, DAX, Visualizations, KPI Cards)
 . Excel/SQL (for preprocessing and initial exploration)
 
+
+📊 Business Impact
+
+By applying the above strategies, the telecom company can:
+
+Reduce churn by 15–20% through targeted retention campaigns.
+
+Improve customer lifetime value (CLV).
+
+Optimize marketing spend by focusing only on high-risk customers (identified via churn index).
+
